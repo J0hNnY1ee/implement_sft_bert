@@ -4,3 +4,8 @@ data/2016.1-2016.11
 data/2012.1-2012.4_bak
 data/2016.1-2016.11_bak
 model
+model/*.pkl
+models/best_model_2.pkl
+models/best_model.pkl
+data/train.json
+data/test.json
