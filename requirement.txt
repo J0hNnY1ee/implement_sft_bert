@@ -2,3 +2,4 @@ json
 multiprocessing
 torch
 d2l
+accelerate
