@@ -9,7 +9,7 @@ models/best_model_2.pkl
 models/best_model.pkl
 data/train.json
 data/test.json
-
+*.log
 
 data
 output
